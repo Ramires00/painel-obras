@@ -1,0 +1,9 @@
+node_modules/
+.env
+backups/
+relatorios/
+data/*.tmp
+data/*.antes-da-restauracao
+
+# Power BI: o .pbix guarda a chave da API nas consultas
+*.pbix
